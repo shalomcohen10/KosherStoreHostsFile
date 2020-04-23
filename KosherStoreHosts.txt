@@ -29,4 +29,4 @@ ff02::3 ip6-allhosts
 # Hosts by Shalom Cohen.
 
 
-0.0.0.0 www.mybf.co.il
+0.0.0.0 www.instagram.com
