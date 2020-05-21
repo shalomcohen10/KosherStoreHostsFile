@@ -1,6 +1,6 @@
 # Title: shalomcohen10/KosherStoreHostsFile
-# Date: 22 April 2020 17:20, IL.
-# Number of unique domains: 1
+# Date: 21 May 2020 14:00, IL.
+# Number of unique domains: 8
 #
 # ===============================================================
 
