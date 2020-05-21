@@ -34,3 +34,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.shutterstock.com
 0.0.0.0 www.gettyimages.com
 0.0.0.0 www.twipu.com
+0.0.0.0 www.qporno.xxx
+0.0.0.0 www.twitter.com
+0.0.0.0 mobile.twitter.com
