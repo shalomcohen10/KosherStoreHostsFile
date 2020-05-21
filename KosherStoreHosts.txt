@@ -33,4 +33,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mybf.co.il
 0.0.0.0 www.shutterstock.com
 0.0.0.0 www.gettyimages.com
-
+0.0.0.0 www.twipu.com
