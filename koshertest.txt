@@ -31,5 +31,7 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 www.instagram.com
 0.0.0.0 m.facebook.com
+0.0.0.0 www.*.com
+0.0.0.0
 
 
