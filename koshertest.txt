@@ -20,7 +20,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
-
+0.0.0.0 .com
 
 # End of custom host records.
 # Start shalomcohen10
@@ -31,6 +31,5 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 www.instagram.com
 0.0.0.0 m.facebook.com
-0.0.0.0 127.0.0.1
 
 
