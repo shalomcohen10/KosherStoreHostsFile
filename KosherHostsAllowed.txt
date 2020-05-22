@@ -34,6 +34,9 @@ ff02::3 ip6-allhosts
 #blah blah, more sites here
 
 #blocked sites
+0.0.0.0 [.com]
+.com
+*.com
 0.0.0.0 .aaa
 0.0.0.0 .abb
 0.0.0.0 .abbott
