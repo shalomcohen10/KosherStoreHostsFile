@@ -222,13 +222,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 .clubmed
 0.0.0.0 .cm
 0.0.0.0 .cn
-0.0.0.0 .co
+0.0.0.0 *.co
+0.0.0.0 *[.co]
 0.0.0.0 .coach
 0.0.0.0 .codes
 0.0.0.0 .coffee
 0.0.0.0 .college
 0.0.0.0 .cologne
-0.0.0.0 .com
+0.0.0.0 *[.com]
 0.0.0.0 .commbank
 0.0.0.0 .community
 0.0.0.0 .company
