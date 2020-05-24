@@ -51,3 +51,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 client-assets.waze.com
 0.0.0.0 mobile-web-new.waze.co.il
 0.0.0.0 cres.waze.com
+0.0.0.0 www.waze.com
