@@ -47,3 +47,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.os33.net
 0.0.0.0 user.weiyun.com
 0.0.0.0 www.weiyun.com
+0.0.0.0 github.com
