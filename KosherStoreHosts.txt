@@ -42,3 +42,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 account.box.com
 0.0.0.0 us-partner-integrations.egnyte.com
 0.0.0.0 auth.wanpath.net
+0.0.0.0 vault.netvoyage.com
+0.0.0.0 my.syncplicity.com
+0.0.0.0 www.os33.net
+0.0.0.0 user.weiyun.com
+0.0.0.0 www.weiyun.com
