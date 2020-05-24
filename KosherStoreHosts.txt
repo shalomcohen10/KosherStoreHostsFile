@@ -48,3 +48,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 user.weiyun.com
 0.0.0.0 www.weiyun.com
 0.0.0.0 github.com
+0.0.0.0 client-assets.waze.com
+0.0.0.0 mobile-web-new.waze.co.il
+0.0.0.0 rtproxy-il.waze.com
