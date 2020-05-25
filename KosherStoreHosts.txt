@@ -56,3 +56,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 moovitapp.com
 0.0.0.0 moovit.me
 0.0.0.0 www.pinterest.com
+0.0.0.0 www.google.com/amp/s/www.pinterest.com
