@@ -59,4 +59,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 totalvideochat.com
 0.0.0.0 chat.2all.co.il
 0.0.0.0 www.tapuz.co.il
-0.0.0.0 m.facebook.com
