@@ -1,0 +1,12 @@
+{ // Json for KosherQinStore by Cohen.
+    "success": 1,
+    "message": "Post Available!",
+    "user": [ // json array user
+        {     // json object node 
+            "designation": "Student Affairs Office in-charge",
+            "middlename": "",
+            "firstname": "Jose Patrick",
+            "lastname": "Ocampo"
+        }
+    ]
+}
